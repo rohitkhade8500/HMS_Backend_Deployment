@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "backend1"
+		},
+		{
+			"path": "backend"
+		},
+		{
+			"path": "frontend"
+		},
+		{
+			"path": "vite-project"
+		}
+	],
+	"settings": {}
+}
